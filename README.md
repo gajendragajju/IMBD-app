@@ -1,2 +1,3 @@
 # IMDBMovieApp
-Android application which shows current popular movies on IMDB. The code is designed to follow MVP, dependency injection and RxJava.
+1) View Movie Trailers
+2) Rate Movies
